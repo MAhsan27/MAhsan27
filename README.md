@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-- 💼 **1.5+ years** of experience delivering full-stack web applications for real clients
+- 💼 **2+ years** of experience delivering full-stack web applications for real clients
 - 🔥 Specialized in **React.js, Node.js, Express.js, Firebase & TailwindCSS**
 - ⚙️ Building **REST APIs** and backend services with **Node.js + Express.js**
 - 🌍 Based in **Karachi, Pakistan**
