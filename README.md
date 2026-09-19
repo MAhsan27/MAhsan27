@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammad Ahsan Ilyas 👋
 
-### Frontend Developer | React.js • Firebase • Full-Stack
+### Frontend Developer | React.js • Node.js • Express.js • Firebase
 ### Building production-ready web apps for real clients 🚀
 
 ---
@@ -8,7 +8,8 @@
 ## 🚀 About Me
 
 - 💼 **1.5+ years** of experience delivering full-stack web applications for real clients
-- 🔥 Specialized in **React.js, Firebase, Node.js & TailwindCSS**
+- 🔥 Specialized in **React.js, Node.js, Express.js, Firebase & TailwindCSS**
+- ⚙️ Building **REST APIs** and backend services with **Node.js + Express.js**
 - 🌍 Based in **Karachi, Pakistan**
 - 📫 Reach me at **mashsan271219@gmail.com**
 - 🌐 Portfolio: **[ahsanilyas-portfolio-2712.netlify.app](https://ahsanilyas-portfolio-2712.netlify.app)**
@@ -18,14 +19,20 @@
 
 ## 🛠️ Tech Stack
 
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+### Tools & Others
 ![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
@@ -41,9 +48,10 @@
 - ✅ Real-time order tracking via Firebase Firestore
 - ✅ Dynamic menu with categories, subcategories & customizable items
 - ✅ Automated receipt printing — eliminated manual billing
-- **Tech:** React.js • Firebase • Node.js • TailwindCSS
+- ✅ **REST APIs built with Node.js + Express.js** for order & inventory management
+- **Tech:** React.js • Node.js • Express.js • Firebase • TailwindCSS
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)]https://www.youtube.com/watch?v=SU-MzUiicbQ
+[![Watch Demo](https://img.shields.io/badge/Watch_Demo-FF5722?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=SU-MzUiicbQ)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAhsan27/foodhub-ordering-system)
 
 ---
@@ -54,9 +62,10 @@
 - ✅ Real-time messaging and communication
 - ✅ Fully responsive — mobile, tablet & desktop
 - ✅ Component-driven architecture for scalability
-- **Tech:** React.js • TailwindCSS • Ant Design
+- ✅ **Backend services with Node.js + Express.js**
+- **Tech:** React.js • Node.js • Express.js • TailwindCSS • Ant Design
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)]https://www.voxconnect.co.uk/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://www.voxconnect.co.uk/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAhsan27/voxconnect)
 
 ---
@@ -68,10 +77,23 @@
 - ✅ Real-time upload/download via Firebase Storage
 - ✅ Multiple file types supported
 - ✅ No Wi-Fi limitations — works from anywhere
-- **Tech:** React.js • Firebase • SCSS • JavaScript
+- ✅ **Node.js + Express.js backend for link generation & file handling**
+- **Tech:** React.js • Node.js • Express.js • Firebase • SCSS • JavaScript
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)] https://airsharex.netlify.app/
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white)](https://airsharex.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAhsan27/airsharex)
+
+---
+
+### 🔌 REST API Projects (Node.js + Express.js)
+> Backend services and API architecture
+
+- ✅ **Express.js REST APIs** — CRUD operations, authentication, file uploads
+- ✅ **JWT-based authentication** and role-based access control
+- ✅ **MongoDB / Firestore** integration via Mongoose / Admin SDK
+- ✅ **Middleware** for validation, error handling & logging
+- ✅ **Deployment** on Render / Railway / Vercel
+- **Tech:** Node.js • Express.js • MongoDB • JWT • REST API
 
 ---
 
